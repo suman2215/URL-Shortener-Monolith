@@ -23,8 +23,8 @@ This is a simple URL Shortener application built using Flask and Flask-RESTful i
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/url-shortener.git
-cd url-shortener
+git clone https://github.com/suman2215/URL-Shortener-Monolith.git
+cd URL-Shortener-Monolith
 ```
 
 ### Set Up Virtual Environment (Optional)
@@ -60,7 +60,7 @@ Before starting the server, the application will check if MongoDB and Memcached 
 Start the server using:
 
 ```bash
-python app.py
+python3 app.py
 ```
 
 The server will run on `http://localhost:5000` by default.
